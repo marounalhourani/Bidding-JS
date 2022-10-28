@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  font-size: 25px;
+  background-color:brown;
+}
+
+.img-table {
+  width: 30%;
+  margin-top: 20px;
+}
+
+#bid-now {
+  width: 30%;
+}
+
+#btn-click {
+  display: block;
+  padding: 10px;
+  margin: auto;
+  background-color: aqua;
+  align-items: center;
+  width: 100px;
+}
